@@ -1,5 +1,3 @@
-url(https://www.youtube.com/watch?v=enOsPhp2Z6Q&t=629s)
-
 # Frontend
 > npm init vite
 > client
